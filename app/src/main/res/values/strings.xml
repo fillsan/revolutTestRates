@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RevolutTestApp</string>
+    <string name="action_bar_title">Rates</string>
+    <string name="description_currency_img">Currency image</string>
+    <string name="network_error">Connection error</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="no_local_data_error">No local data</string>
+    <string name="retry">Retry</string>
+</resources>
